@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "187450026589",
+    "project_id": "communicat-1600d",
+    "storage_bucket": "communicat-1600d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:187450026589:android:9545e099e3aaa829093bb4",
+        "android_client_info": {
+          "package_name": "com.example.software"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "187450026589-93vdasrfhc8p94khemv6a0q84nf82vj2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgRbRhEResLAinl11CBc7bZ9wh2ak46g8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "187450026589-93vdasrfhc8p94khemv6a0q84nf82vj2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
